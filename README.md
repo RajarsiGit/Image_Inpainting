@@ -1,4 +1,4 @@
-**Image inpainting with OpenCV**
+# Image inpainting with OpenCV
 
 Image inpainting is a form of image conservation and image restoration, dating back to the 1700s when Pietro Edwards, director of the Restoration of the Public Pictures in Venice, Italy, applied this scientific methodology to restore and conserve famous works.
 
