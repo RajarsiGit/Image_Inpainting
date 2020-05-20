@@ -5,9 +5,7 @@ Image inpainting is a form of image conservation and image restoration, dating b
 Technology has advanced image painting significantly, allowing us to:
 
 • Restore old, degraded photos
-
 • Repair photos with missing areas due to damage and aging
-
 • Mask out and remove particular objects from an image (and do so in an aesthetically pleasing way)
 
 There are two OpenCV’s inpainting algorithms. From there, we’ll implement an inpainting demo using OpenCV’s built-in algorithms, and then apply inpainting to a set of images.
